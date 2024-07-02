@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "app-ejecicioUno",
+    "slug": "app-ejecicioUno",
+    "version": "1.0.0",
+    "orientation": "all",
+    "icon": "./assets/image/pokemon-ir.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/image/pokemon-ir.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#799351"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
